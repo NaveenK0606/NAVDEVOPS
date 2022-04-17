@@ -1,0 +1,29 @@
+EUROPE+nakanneg@DESKTOP-UJJF8JA MINGW64 /c/DEVOPS
+$ git init
+Initialized empty Git repository in C:/DEVOPS/.git/
+
+EUROPE+nakanneg@DESKTOP-UJJF8JA MINGW64 /c/DEVOPS (master)
+$ git config --global user.name "naveen"
+
+EUROPE+nakanneg@DESKTOP-UJJF8JA MINGW64 /c/DEVOPS (master)
+$ git config --global user.email "androdstore2022@gmail.com"
+
+EUROPE+nakanneg@DESKTOP-UJJF8JA MINGW64 /c/DEVOPS (master)
+$ git clone https://github.com/NaveenK0606/NAVDEVOPS.git
+Cloning into 'NAVDEVOPS'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+EUROPE+nakanneg@DESKTOP-UJJF8JA MINGW64 /c/DEVOPS (master)
+$ cd c:
+
+EUROPE+nakanneg@DESKTOP-UJJF8JA MINGW64 /c
+$ cd devops
+
+EUROPE+nakanneg@DESKTOP-UJJF8JA MINGW64 /c/devops (master)
+$ cd navdevops
+
+EUROPE+nakanneg@DESKTOP-UJJF8JA MINGW64 /c/devops/navdevops (main)
+$
